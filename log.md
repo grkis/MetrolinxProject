@@ -4,7 +4,7 @@
 - Introduction to project + going over checklist items (Friday, February 20th) 
   - ~30min 
 - Creating weekly log as part of week 7 checklist item and learning about writing an effective activity log. 
-  - The activity log can be spreadsheet or text-based. This word document is also available on: <https://github.com/grkis/MetrolinxProject>
+  - The activity log can be spreadsheet or text-based. This is a text-based log hosted on github
   - 1h
 - Total hours: 1.5h 
 ## Week 8: College closed. 
